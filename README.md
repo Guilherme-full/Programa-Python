@@ -6,8 +6,6 @@ Programa realizado na Linguagem Python, no qual consiste na verificação, das i
  gh repo clone Guilherme-full/Programa-Python
 ```
 
-### O programa realizado possui duas versões, a versão apenas em código, e a versão .exe (executavel)
-
 |          | Linux | macOS | Windows |
 |   :---   | :---: | :---: | :---:   |
 | Chromium <!-- GEN:chromium-version -->93.0.4543.0<!-- GEN:stop --> | :white_check_mark: | :white_check_mark: | :white_check_mark: |
