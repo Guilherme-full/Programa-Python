@@ -1,5 +1,5 @@
 # Programa-Python
-Programa realizado na Linguagem Python, no qual consiste na verificação, das informações do Desktop do usuário, poderia verificar também a versão em uso do Python. 
+Programa realizado na Linguagem Python, no qual consiste na verificação, das informações do Desktop do usuário, podendo verificar também a versão em uso do Python. 
 
 ## Download do Projeto
 ```
