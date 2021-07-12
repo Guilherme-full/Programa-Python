@@ -1,9 +1,9 @@
 # Programa-Python
 Programa realizado na Linguagem Python, no qual consiste na verificação, das informações do Desktop do usuário, podendo verificar também a versão em uso do Python. 
 
-## Download do Projeto
+## Clonar Repositório
 ```
- gh repo clone Guilherme-full/Programa-Python
+git clone https://github.com/Guilherme-full/Programa-Python.git
 ```
 
 |          | Linux | macOS | Windows |
